@@ -1,0 +1,4 @@
+ 
+python3 scrapt.py --input booklist.txt --output output_scrapt.csv
+
+python3 GoodreadsScraper.py --input booklist.txt --output output_scrapt.csv
